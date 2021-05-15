@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "411401150428",
+    "project_id": "raboteuse-4d054",
+    "storage_bucket": "raboteuse-4d054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411401150428:android:74c3d84bcbfffb598ef919",
+        "android_client_info": {
+          "package_name": "com.example.autonomousraboteuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411401150428-ejkktr5ar1hp05h4k6vcpce6dm9pnkob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAqKV10AoXhrBoBCpho8xqtla67QzH5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411401150428-ejkktr5ar1hp05h4k6vcpce6dm9pnkob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411401150428:android:4b87adea074a2acc8ef919",
+        "android_client_info": {
+          "package_name": "com.example.raboteuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411401150428-ejkktr5ar1hp05h4k6vcpce6dm9pnkob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlAqKV10AoXhrBoBCpho8xqtla67QzH5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411401150428-ejkktr5ar1hp05h4k6vcpce6dm9pnkob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
